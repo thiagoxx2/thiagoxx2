@@ -2,6 +2,8 @@
 
 ## Welcome to the refuge of my ideas!
 
+- I'm searching a new job opportunity
+- 
 
 <div align="center">
 
