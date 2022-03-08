@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello Folks, Enjoy my Profile Page 👋
 
 ## Seja bem vindo ao refúgio das minhas ideias!
 
@@ -12,7 +12,24 @@
 
 > Entusiasta e colaborador eterno do mundo da tecnologia.
 
+
+<h2 align="center"> - A bit about me -</h2>
+I'm 25 and I love the feeling of writing code that solves problems. Actually, i work as backend developer using Python and Django as API to deliver informations for a React JS application.
+
+<br>
+<br>
 <h2 align="center">Tecnologias que utilizo</h2>
+
+## Contact me and Social Medias
+<div style="display: flex">
+
+[![Nameee](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xavier_thi_/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-sousa-xavier-a22a63137/)
+
+</div>
+
+
 
 ### Linguagens: 
 <div style="display: flex">
@@ -25,9 +42,10 @@
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 <br>
+
 <div style="display: flex">
 
-### Frameworks
+### Frameworks:
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
