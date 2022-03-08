@@ -24,9 +24,7 @@ I'm 25 and I love the feeling of writing code that solves problems. Actually, i 
 <div style="display: inline_block">
 
 [![Nameee](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xavier_thi_/)
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-sousa-xavier-a22a63137/)
-
 </div>
 
 
