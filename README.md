@@ -21,7 +21,7 @@ I'm 25 and I love the feeling of writing code that solves problems. Actually, i 
 <h2 align="center">Tecnologias que utilizo</h2>
 
 ## Contact me and Social Medias
-<div style="display: flex">
+<div style="display: inline_block">
 
 [![Nameee](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xavier_thi_/)
 
