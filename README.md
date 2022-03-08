@@ -3,7 +3,8 @@
 ## Welcome to the refuge of my ideas!
 
 - I'm searching a new job opportunity
-- 
+- I study english every day to become fluent.
+- Lover of Basketball and sports.
 
 <div align="center">
 
