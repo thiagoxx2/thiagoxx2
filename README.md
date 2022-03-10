@@ -18,8 +18,8 @@ I am 25 and I love the feeling of writing code that solves problems. Actually, i
 
 [!Duolingo](https://github.com/thiagoxx2/thiagoxx2/blob/main/Ofensiva.png)
 
-<img src="https://github.com/thiagoxx2/thiagoxx2/blob/main/Ofensiva.png"/>
-
+<img src="https://github.com/thiagoxx2/thiagoxx2/blob/main/Ofensiva.png" />
+    
 
 <br>
 <br>
