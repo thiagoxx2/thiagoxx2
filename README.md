@@ -10,11 +10,16 @@
 
 ![Thiagoxx2 GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoxx2&show_icons=true&theme=radical)
 
-##
+
 </div>
 
 <h2 align="center"> - A bit about me -</h2>
 I am 25 and I love the feeling of writing code that solves problems. Actually, i work as backend developer using Python and Django as API to deliver informations for a React JS application.
+
+[!Duolingo](https://pin.it/6W1Q3xm)
+
+<img src="https://pin.it/6W1Q3xm" />
+
 
 <br>
 <br>
